@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # Run to install the Adafruit-Motor-HAT-Python-Library
 git clone https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library
 
@@ -42,10 +36,3 @@ for i in range(240):
 # If the loop receives a 0, it simply continues the loop until the 2 minutes is up
     elif values == 0:
         continue
-
-
-# In[ ]:
-
-
-
-
