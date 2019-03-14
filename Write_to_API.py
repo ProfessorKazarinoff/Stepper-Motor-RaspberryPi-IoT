@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # The write_to_API code will ask a user for input that will be used to update a Thingspeak channel used to turn on a motor which will disperse fish food into the tank in the engineering lab.
 # The URL to update our fish feeder channel is https://api.thingspeak.com/update?api_key=XXXXXXXXXXXXXXXX&field1=X
 # This function will return the uploaded a value 1 or 0, after feeding the fish
@@ -59,10 +53,3 @@ sleep(30)
 while feed_or_starve == '1':    # Recognizes when the channel is set to 1
     default()                   # Returns the channel to 0
     break
-
-
-# In[ ]:
-
-
-
-
