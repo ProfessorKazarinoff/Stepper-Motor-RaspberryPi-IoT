@@ -1,5 +1,5 @@
 # ENGR114-Fish-Feeder-
-Problem Statement:
+## Problem Statement:
 A lab technician needs to feed his fish every day of the year, including weekends and on vacation. As of today, that is not possible. Our group was tasked with creating a system that could feed the fish under any circumstances.  Python can be used to interact with a Raspberry Pi to start a motor, as long as the user  has an internet connection
 
 ## Future Work:
