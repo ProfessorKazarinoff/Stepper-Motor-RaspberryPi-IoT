@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 import requests
 from API_key import API_KEY
 # API_KEY withheld for serurity reasons
@@ -27,10 +21,3 @@ def read_api():
     Data = json_data['feeds'][0]['field1']
 
     return(data)
-
-
-# In[ ]:
-
-
-
-
