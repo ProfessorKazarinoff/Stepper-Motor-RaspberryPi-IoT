@@ -1,6 +1,6 @@
 # ENGR114-Fish-Feeder
 ## Problem Statement:
-A lab technician needs to feed his fish every day of the year, including weekends and on vacation. As of today, that is not possible. Our group was tasked with creating a system that could feed the fish under any circumstances.  Python can be used to interact with a Raspberry Pi to start a motor, as long as the user  has an internet connection
+Every day of the year, a lab technician must be present in order to feed the fish housed in the Engineering Department at Portland Community College. As of today, feeding the fish on weekends and during schoolbreaks without the presence of a lab technician is not possible. Our group was tasked with creating a program in Python that could feed the fish under any circumstance. Python code was constructed and used in conjunction with a raspberry piin order to spin a motor. This motor can be instructed to turn on and off effortlessly, as long as the user has internet connection.
 
 ## Future Work:
 The motor does not include a mechanism to physically feed the fish, only the motion to do so. A mechanism needs to be created to physically feed the fish. There are some issues with connecting the Raspberry Pi to the school’s wifi since it’s so secure. One work around could be created by connecting the Pi a mobile hotspot via smartphone. A more permanent solution would involve connecting the Pi to the school’s wifi.
