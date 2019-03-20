@@ -1,5 +1,5 @@
 # Run to install the Adafruit-Motor-HAT-Python-Library
-git clone https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library
+# git clone https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library
 
 # Code that reads Thingspeak.com and makes the motor run
 from Adafruit_MotorHAT import Adafruit_MotorHAT
